@@ -11,7 +11,7 @@ const HeroSection = () => {
             Vertrauenswürdige und zuverlässige Reinigungsdienste
           </h1>
           <p className="text-[14px] md:text-lg text-center text-white font-semibold text-xl">
-            Wir liefern erstklassige Gebäudereinigungsdienstleistungen, die auf
+            Wir liefern qualitativ hochwertige Gebäudereinigungsdienstleistungen, die auf
             Ihre Bedürfnisse zugeschnitten sind. Unser Expertenteam sorgt für
             eine makellose Umgebung für kommerzielle Zwecke Gebäude, Büroflächen
             und Wohnimmobilien.
